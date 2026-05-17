@@ -183,7 +183,7 @@ You will commit all your code on a daily basis, when you finish your practice.
 
 #####Practice:#####
 
-1. [OOP Exercises](http://www.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html)
+1. [OOP Exercises](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html)
 2. Design a building like a house and provide a builder to build it.
 3. Design a hospital and provide classes to build it (builder, factories, etc).
 
